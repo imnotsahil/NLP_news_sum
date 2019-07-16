@@ -107,6 +107,7 @@ def create_summary(fname, top_n=5):
 
     #printing the output of the input article
     print("Summary of the Article: \n", ". ".join(s_text))
-
+    
+    
 #calling the create summary function to create summary of the specified article
 create_summary( "msft.txt", 2)
