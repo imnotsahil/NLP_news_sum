@@ -111,4 +111,4 @@ def create_summary(fname, top_n=5):
     
 
 #calling the create summary function to create summary of the specified article
-create_summary( "msft.txt", 2)
+create_summary( "input2.txt", 2)
