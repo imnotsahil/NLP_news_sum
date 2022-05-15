@@ -5,16 +5,6 @@
 #Approach Used - Extractive Summarization Technique
 #Team Contribution:
 #-----------------
-#- Sweety : ssweety9643@gmail.com : 
-#  suggesting approach to be used,importing libraries, initialization,coding checking sentence similarity function
-#------------------------------------------------------------------------------------------------------------------
-#- Sahil.C : imnotsahil@gmail.com (Team Leader) :
-#  coding create summary function, debugging, clearing errors,checking for alternative approaches ,co-ordinating
-#------------------------------------------------------------------------------------------------------------------
-#- Mohit Porwal : porwalmohit1999@gmail.com :
-#  coding creating similarity matrix, reviewing code , creating input repository to test the code, testing
-#------------------------------------------------------------------------------------------------------------------
-
 #!/usr/bin/env python
 # coding: utf-8
 #importing libraries
