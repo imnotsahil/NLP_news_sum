@@ -17,4 +17,4 @@ note: 1) if you have trouble running in ".py" format , try to copy the code pres
 
 Members:
 
-#Sahil.C : imnotsahil@gmail.com, Sweety : ssweety9643@gmail.com, Mohit Porwal : porwalmohit1999@gmail.com.
+#Sahil.C : imnotsahil@gmail.com, Sweety : ssweety9643@gmail.com, 
